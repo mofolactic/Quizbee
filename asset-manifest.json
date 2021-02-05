@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Quizbee/static/css/main.2009b1bb.chunk.css",
+    "main.js": "/Quizbee/static/js/main.f0e6af04.chunk.js",
+    "main.js.map": "/Quizbee/static/js/main.f0e6af04.chunk.js.map",
+    "runtime-main.js": "/Quizbee/static/js/runtime-main.04db79d4.js",
+    "runtime-main.js.map": "/Quizbee/static/js/runtime-main.04db79d4.js.map",
+    "static/js/2.cf26d0a7.chunk.js": "/Quizbee/static/js/2.cf26d0a7.chunk.js",
+    "static/js/2.cf26d0a7.chunk.js.map": "/Quizbee/static/js/2.cf26d0a7.chunk.js.map",
+    "index.html": "/Quizbee/index.html",
+    "static/css/main.2009b1bb.chunk.css.map": "/Quizbee/static/css/main.2009b1bb.chunk.css.map",
+    "static/js/2.cf26d0a7.chunk.js.LICENSE.txt": "/Quizbee/static/js/2.cf26d0a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04db79d4.js",
+    "static/js/2.cf26d0a7.chunk.js",
+    "static/css/main.2009b1bb.chunk.css",
+    "static/js/main.f0e6af04.chunk.js"
+  ]
+}
